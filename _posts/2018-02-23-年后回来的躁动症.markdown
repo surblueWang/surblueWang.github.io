@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "新旧交替的一段感悟"
-img: actice_pic01.jpg # Add image post (optional)
+img: journal.jpg # Add image post (optional)
 date: 2018-02-23 15:07:00 +0300
 description: 心事倾诉
 tag: [Travel, Blogging, Mountains]
