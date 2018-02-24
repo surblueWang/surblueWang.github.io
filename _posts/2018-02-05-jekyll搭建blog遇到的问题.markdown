@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "windows下安装jekyll中遇到的坑"
-img: actice_pic01.jpg # Add image post (optional)
-date: 2018-01-25 17:44:35 +0800
-categories: jekyll update
+title: "windows下安装jekyll中遇到的坑"
+img: himalayan.jpg # Add image post (optional)
+date: 2018-02-05 16:57:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
+
 windows下安装jekyll中遇到的坑（首先注意版本，版本最好选择相对稳定的版本）（注意ruby、gem等一切安装组件的版本）
 jekyll在blog中遇到jekyll serve 安装失败（可以写一个blog） 执行serve命令失败后 
 
@@ -32,6 +32,6 @@ es_are_found!'
         from E:/Ruby23/bin/jekyll:23:in `load'
         from E:/Ruby23/bin/jekyll:23:in `<main>'
        
- 则因为缺少相应的模块，根据提示“Could not find gem 'jekyll-sitemap x86-mingw32' in any of the gem sources listed”安装相应模块即可。即输入 gem install jekyll-sitemap
+  则因为缺少相应的模块，根据提示“Could not find gem 'jekyll-sitemap x86-mingw32' in any of the gem sources listed”安装相应模块即可。即输入 gem install jekyll-sitemap
 
-安装中 出现提示缺少组件的，则根据相应的情况缺少什么装什么。
+安装中 出现提示缺少组件的，则缺少什么装什么
